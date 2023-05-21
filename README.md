@@ -1,7 +1,7 @@
 <div>
   <p align="center">
     <a href="https://github.com/Azshurith/MIR4-Domination-v2" target="_blank" rel="nofollow">
-      <img src="https://github.com/Azshurith/MIR4-Domination-v2/blob/main/src/modules/core/resources/images/DominationLogo.png?raw=true" width="900" />
+      <img src="https://github.com/Azshurith/MIR4-Domination-Server/blob/main/DominationLogo.png?raw=true" width="900" />
     </a>
   </p>
   <div align="center" class="badge-container">
