@@ -27,3 +27,8 @@ With the MIR4 Domination Bot, you can receive notifications about NFT sales and 
 The bot is designed to be easy to use, so you can quickly get the information you need without any hassle. Whether you're a seasoned MIR4 player or just getting started, this bot is an essential tool for staying on top of the latest game developments.
 
 Get started with the MIR4 Domination Bot today and take your gaming experience to the next level!
+
+## 📝 More about MIR4 Domination
+
+<img src="https://github.com/Azshurith/MIR4-Domination-Server/blob/main/Page%201.png?raw=true"/>
+<img src="https://github.com/Azshurith/MIR4-Domination-Server/blob/main/Page%202.png?raw=true"/>
