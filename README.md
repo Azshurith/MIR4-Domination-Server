@@ -16,7 +16,7 @@
 
 ## 📖 MIR4 Domination
 
-> **Note:** This project is discontinued, The V1 source is located here: https://github.com/Azshurith/MIR4-Domination-Server
+> **Note:** This project is discontinued, The V1 source is located here: [https://github.com/Azshurith/MIR4-Domination-Server](https://github.com/Azshurith/MIR4-Domination/tree/main)
 
 Introducing the MIR4 Domination Bot, your one-stop-shop for all the latest updates and information about the MIR4 game.
 
